@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BradleyWheal
 - 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript, node, mongodb
 - 💞️ I’m looking to collaborate on anything to do with web design/development
-- 📫 How to reach me bjwheal@gmail.com
+- 📫 You can reach me at: bjwheal@gmail.com
 
 <!---
 BradleyWheal/BradleyWheal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
