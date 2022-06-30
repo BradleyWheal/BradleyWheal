@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BradleyWheal
+- 👋 Hi, I’m Bradley
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning javascript, node, mongodb
 - 💞️ I’m looking to collaborate on anything to do with web design/development
